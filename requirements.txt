@@ -1,6 +1,6 @@
 # Main dependencies
 
-Django==1.11.29
+Django==2.2.24
 djangorestframework==3.11.0
 drf-nested-routers==0.91
 psycopg2==2.8.5
